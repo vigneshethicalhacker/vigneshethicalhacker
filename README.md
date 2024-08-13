@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vigneshthehacker/vigneshthehacker/main/Banner.png">
+<img src="https://raw.githubusercontent.com/vigneshethicalhacker/vigneshethicalhacker/main/Banner.png">
 
 
 <h1 align="center">Hi 👋, I'm Vignesh (Vigneshthehacker)</h1>
